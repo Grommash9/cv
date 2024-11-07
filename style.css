@@ -22,6 +22,20 @@
     }
 }
 
+.soft-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.technical-skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
 .pdf-button {
     position: fixed;
     bottom: 20px;
